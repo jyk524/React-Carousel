@@ -33,7 +33,7 @@ ReactDOM.render(
       </h3>
     </div>
     <div>
-      <h3 style={contentStyle}>Second Slide</h3>
+      <h3 style={contentStyle}>Tanmay Slide</h3>
     </div>
     <div>
       <h3 style={contentStyle}>Third Slide</h3>
